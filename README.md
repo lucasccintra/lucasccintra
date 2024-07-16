@@ -6,7 +6,7 @@ Olá! Eu sou Lucas Cintra, um desenvolvedor apaixonado por desenvolvimento web. 
 - 🌱 Atualmente estou aprendendo mais sobre React.js e Node.js.
 - 👯 Estou buscando colaborar em projetos open source relacionados a desenvolvimento web.
 - 💬 Pergunte-me sobre HTML5, CSS3, JavaScript e frameworks como React e Express.js.
-- 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/lucas-cintra/) | [Email](mailto:lucas.cintra@email.com)
+- 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/lucasccintra/)/) | [Email](mailto:lucascintra8@email.com)
 
 ## Projetos Destacados
 Aqui estão alguns projetos em que estou trabalhando e de que me orgulho:
@@ -29,7 +29,7 @@ Trabalho com diversas linguagens e ferramentas, incluindo:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&hide_title=true&hide_border=true&count_private=true)
 
 ## Entre em Contato
-- LinkedIn: [Lucas Cintra](https://www.linkedin.com/in/lucas-cintra/)
-- Email: [lucas.cintra@email.com](mailto:lucas.cintra@email.com)
+- LinkedIn: [LucasCcintra](https://www.linkedin.com/in/lucasccintra/)
+- Email: [lucas.cintra@email.com](mailto:lucasccintra8@email.com)
 
 Obrigado por visitar meu perfil! Vamos nos conectar e criar algo incrível juntos.
