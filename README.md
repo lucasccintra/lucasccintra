@@ -12,7 +12,7 @@ Olá! Eu sou Lucas Cintra, um desenvolvedor apaixonado por desenvolvimento web. 
 Aqui estão alguns projetos em que estou trabalhando e de que me orgulho:
 
 - [Projeto 1](https://github.com/lucasccintra/teladeloginnnn) - Tela de Login.
-- [Projeto 2](link para o projeto) - Breve descrição do projeto.
+- [Projeto 2]([link para o projeto](https://github.com/lucasccintra/teladeloginnn2)) - Tela de Login.
 
 Você pode encontrar mais projetos interessantes no meu perfil!
 
