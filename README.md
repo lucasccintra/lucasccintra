@@ -11,7 +11,7 @@ Olá! Eu sou Lucas Cintra, um desenvolvedor apaixonado por desenvolvimento web. 
 ## Projetos Destacados
 Aqui estão alguns projetos em que estou trabalhando e de que me orgulho:
 
-- [Projeto 1](link para o projeto) - Breve descrição do projeto.
+- [Projeto 1](https://github.com/lucasccintra/teladeloginnnn) - Tela de Login.
 - [Projeto 2](link para o projeto) - Breve descrição do projeto.
 
 Você pode encontrar mais projetos interessantes no meu perfil!
@@ -25,8 +25,6 @@ Trabalho com diversas linguagens e ferramentas, incluindo:
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&hide_title=true&hide_border=true&count_private=true)
 
 ## Entre em Contato
 - LinkedIn: [LucasCcintra](https://www.linkedin.com/in/lucasccintra/)
